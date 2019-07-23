@@ -309,4 +309,4 @@ def inspectAt(path):
     details['Scanned Items'] = {}
     _scanUnknown(tree, [])
     
-    return json.dumps(details, indent=4)
+    return details
