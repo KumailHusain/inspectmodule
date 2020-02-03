@@ -10,3 +10,5 @@
 # Limitations
   The type of the data variables is not listed because it cannot be determined without executing the file
   It is assumed that all imported modules are either provided or available on pip
+
+Developed for Allied Consultant
